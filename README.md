@@ -11,10 +11,10 @@ An individual implementation of a Conditional Variational Autoencoder (CVAE) bui
 ## Reconstructions (Original vs. Reconstructed)
 
 ### Happy
-![Happy Reconstructions](outputs/reconstructions_Happy.png)
+![Happy Reconstructions](outputs/reconstructions_Happy(1).png)
 
 ### Sad
-![Sad Reconstructions](outputs/reconstructions_Sad.png)
+![Sad Reconstructions](outputs/reconstructions_Sad(1).png)
 
 ## Quick Start
 ```bash
