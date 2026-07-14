@@ -1,0 +1,10 @@
+name: face-expression-cvae
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - tensorflow
+  - numpy
+  - pillow
+  - matplotlib
