@@ -18,10 +18,6 @@ An individual implementation of a Conditional Variational Autoencoder (CVAE) bui
 
 ## Quick Start
 ```bash
-# Clone the repository
-git clone https://github.com/alvaro1uja/face-expression-cvae.git
-
-# Create and activate the environment
 conda env create -f environment.yml
 conda activate face-expression-cvae
 
